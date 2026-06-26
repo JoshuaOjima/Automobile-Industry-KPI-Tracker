@@ -15,7 +15,7 @@ This project delivers an interactive KPI tracking and performance analytics dash
 
 - <b>Power BI Service
 
-<h2>Prject walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Executive Dashboard <br/>
